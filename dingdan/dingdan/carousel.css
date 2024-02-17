@@ -1,0 +1,17 @@
+/*轮播图组件 开始*/
+.carousel {
+  width: 472px;
+  height: 254px;
+  overflow: hidden;
+}
+.carousel-imgs {
+  width: 1416px;
+  height: 224px;
+}
+.carousel-imgs img {
+  width: 472px;
+  height: 224px;
+  float: left;
+}
+
+/*轮播图组件 结束*/
